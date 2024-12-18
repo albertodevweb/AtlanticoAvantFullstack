@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "data": "2024-10-14",
+    "valor_uber": 32.5,
+    "valor_99": 27.0,
+    "km_rodado": 21.5,
+    "valor_abastecido": 55.0,
+    "horas_trabalhadas": 1
+  },
+  {
+    "id": 2,
+    "data": "2024-10-15",
+    "valor_uber": 35.0,
+    "valor_99": 29.0,
+    "km_rodado": 23.0,
+    "valor_abastecido": 60.0,
+    "horas_trabalhadas": 2
+  },
+  {
+    "id": 3,
+    "data": "2024-10-16",
+    "valor_uber": 37.5,
+    "valor_99": 31.0,
+    "km_rodado": 24.5,
+    "valor_abastecido": 65.0,
+    "horas_trabalhadas": 3
+  },
+  {
+    "id": 4,
+    "data": "2024-10-17",
+    "valor_uber": 40.0,
+    "valor_99": 33.0,
+    "km_rodado": 26.0,
+    "valor_abastecido": 70.0,
+    "horas_trabalhadas": 4
+  },
+  {
+    "id": 5,
+    "data": "2024-10-18",
+    "valor_uber": 42.5,
+    "valor_99": 35.0,
+    "km_rodado": 27.5,
+    "valor_abastecido": 75.0,
+    "horas_trabalhadas": 5
+  },
+  {
+    "id": 6,
+    "data": "2024-10-19",
+    "valor_uber": 45.0,
+    "valor_99": 37.0,
+    "km_rodado": 29.0,
+    "valor_abastecido": 80.0,
+    "horas_trabalhadas": 6
+  },
+  {
+    "id": 7,
+    "data": "2024-10-20",
+    "valor_uber": 47.5,
+    "valor_99": 39.0,
+    "km_rodado": 30.5,
+    "valor_abastecido": 85.0,
+    "horas_trabalhadas": 7
+  },
+  {
+    "id": 8,
+    "data": "2024-10-21",
+    "valor_uber": 50.0,
+    "valor_99": 41.0,
+    "km_rodado": 32.0,
+    "valor_abastecido": 90.0,
+    "horas_trabalhadas": 8
+  },
+  {
+    "id": 9,
+    "data": "2024-10-22",
+    "valor_uber": 52.5,
+    "valor_99": 43.0,
+    "km_rodado": 33.5,
+    "valor_abastecido": 95.0,
+    "horas_trabalhadas": 9
+  },
+  {
+    "id": 10,
+    "data": "2024-10-23",
+    "valor_uber": 55.0,
+    "valor_99": 45.0,
+    "km_rodado": 35.0,
+    "valor_abastecido": 100.0,
+    "horas_trabalhadas": 0
+  },
+  {
+    "id": 11,
+    "data": "2024-10-24",
+    "valor_uber": 57.5,
+    "valor_99": 47.0,
+    "km_rodado": 36.5,
+    "valor_abastecido": 105.0,
+    "horas_trabalhadas": 1
+  },
+  {
+    "id": 12,
+    "data": "2024-10-25",
+    "valor_uber": 60.0,
+    "valor_99": 49.0,
+    "km_rodado": 38.0,
+    "valor_abastecido": 110.0,
+    "horas_trabalhadas": 2
+  },
+  {
+    "id": 13,
+    "data": "2024-10-26",
+    "valor_uber": 62.5,
+    "valor_99": 51.0,
+    "km_rodado": 39.5,
+    "valor_abastecido": 115.0,
+    "horas_trabalhadas": 3
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27",
+    "valor_uber": 65.0,
+    "valor_99": 53.0,
+    "km_rodado": 41.0,
+    "valor_abastecido": 120.0,
+    "horas_trabalhadas": 4
+  },
+  {
+    "id": 15,
+    "data": "2024-10-28",
+    "valor_uber": 67.5,
+    "valor_99": 55.0,
+    "km_rodado": 42.5,
+    "valor_abastecido": 125.0,
+    "horas_trabalhadas": 5
+  },
+  {
+    "id": 16,
+    "data": "2024-10-29",
+    "valor_uber": 70.0,
+    "valor_99": 57.0,
+    "km_rodado": 44.0,
+    "valor_abastecido": 130.0,
+    "horas_trabalhadas": 6
+  },
+  {
+    "id": 17,
+    "data": "2024-10-30",
+    "valor_uber": 72.5,
+    "valor_99": 59.0,
+    "km_rodado": 45.5,
+    "valor_abastecido": 135.0,
+    "horas_trabalhadas": 7
+  },
+  {
+    "id": 18,
+    "data": "2024-10-31",
+    "valor_uber": 75.0,
+    "valor_99": 61.0,
+    "km_rodado": 47.0,
+    "valor_abastecido": 140.0,
+    "horas_trabalhadas": 8
+  },
+  {
+    "id": 19,
+    "data": "2024-11-01",
+    "valor_uber": 77.5,
+    "valor_99": 63.0,
+    "km_rodado": 48.5,
+    "valor_abastecido": 145.0,
+    "horas_trabalhadas": 9
+  },
+  {
+    "id": 20,
+    "data": "2024-11-02",
+    "valor_uber": 80.0,
+    "valor_99": 65.0,
+    "km_rodado": 50.0,
+    "valor_abastecido": 150.0,
+    "horas_trabalhadas": 0
+  }
+]
