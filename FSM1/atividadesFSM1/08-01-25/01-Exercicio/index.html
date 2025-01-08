@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Montar Pizza</title>
+</head>
+<body>
+    <h1>Monte sua Pizza!</h1>
+    <form id="pizzaForm">
+        <label for="pizzaName">Nome da Pizza:</label>
+        <input type="text" id="pizzaName" placeholder="Ex: Pizza do Chef"><br><br>
+
+        <label for="pizzaSize">Escolha o tamanho:</label><br>
+        <input type="radio" name="size" value="Pequena"> Pequena<br>
+        <input type="radio" name="size" value="Média"> Média<br>
+        <input type="radio" name="size" value="Grande"> Grande<br><br>
+
+        <label>Selecione os ingredientes:</label><br>
+        <input type="checkbox" value="🧀 Queijo"> Queijo<br>
+        <input type="checkbox" value="🍅 Tomate"> Tomate<br>
+        <input type="checkbox" value="🍄 Cogumelo"> Cogumelo<br>
+        <input type="checkbox" value="🥓 Bacon"> Bacon<br>
+        <input type="checkbox" value="🫑 Pimentão"> Pimentão<br><br>
+
+        <button type="button" id="montarPizza">Montar Pizza</button>
+    </form>
+
+    <h2>Sua Pizza:</h2>
+    <div id="pizzaOutput"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
