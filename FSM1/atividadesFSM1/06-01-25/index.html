@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calcular Idade</title>
+    <style>
+      form {
+        width: 800px;
+        margin: 20px auto;
+      }
+      label {
+        font-size: 20px;
+      }
+      input {
+        width: 97%;
+        margin: 10px 0;
+        padding: 10px;
+      }
+      button {
+        width: 100%;
+        margin: 10px 0;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="">
+      <h1>Calcule sua Idade</h1>
+      <label for="anoNascimento">Digite seu ano de nascimento:</label><br />
+      <input
+        type="text"
+        id="anoNascimento"
+        placeholder="Ex: 1991"
+      /><br /><br />
+      <button onclick="calcularIdade()">Calcular</button>
+      <div id="resultado"></div>
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
