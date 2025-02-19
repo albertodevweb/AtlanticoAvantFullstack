@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook Dell Inspiron 15",
+    "preco": 3500.00,
+    "categoria": "Eletrônicos",
+    "descricao": "Notebook com 8GB de RAM, 1TB de HD, e processador Intel i7.",
+    "estoque": 15
+  },
+  {
+    "id": 2,
+    "nome": "Camiseta Estampa Geek - Star Wars",
+    "preco": 49.90,
+    "categoria": "Roupas",
+    "descricao": "Camiseta 100% algodão com estampa dos personagens de Star Wars.",
+    "estoque": 30
+  },
+  {
+    "id": 3,
+    "nome": "Fone de Ouvido Bluetooth Sony WH-1000XM4",
+    "preco": 1500.00,
+    "categoria": "Acessórios",
+    "descricao": "Fone de ouvido Bluetooth com cancelamento de ruído.",
+    "estoque": 10
+  },
+  {
+    "id": 4,
+    "nome": "Smartphone Samsung Galaxy S22",
+    "preco": 5000.00,
+    "categoria": "Eletrônicos",
+    "descricao": "Smartphone de última geração com câmera de 108 MP e 128 GB de armazenamento.",
+    "estoque": 25
+  },
+  {
+    "id": 5,
+    "nome": "Mochila de Notebook Lenovo",
+    "preco": 199.90,
+    "categoria": "Acessórios",
+    "descricao": "Mochila resistente, ideal para carregar notebooks de até 15.6 polegadas.",
+    "estoque": 50
+  },
+  {
+    "id": 6,
+    "nome": "Tênis Nike Air Max 270",
+    "preco": 599.90,
+    "categoria": "Calçados",
+    "descricao": "Tênis esportivo com design moderno e confortável para o dia a dia.",
+    "estoque": 40
+  }
+]
